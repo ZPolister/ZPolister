@@ -18,9 +18,7 @@
 
 
 ### Languages
-- Java/Go
-- Python
-- C/C++
+- Java/Go、Python、C/C++
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZPolister&layout=compact)](https://github.com/ZPolister/github-readme-stats)
   
